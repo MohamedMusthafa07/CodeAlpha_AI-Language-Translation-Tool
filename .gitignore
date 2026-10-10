@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+credentials.json
+.streamlit/secrets.toml
+.venv*/
+.venv*/
+.vscode/
+
+.venv*/
+.vscode/
+
+/CodeAlpha_ AI LanguageTranslationTool/
